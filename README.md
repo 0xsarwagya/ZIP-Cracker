@@ -2,7 +2,7 @@ Zipping files is the most convenient way to save on disk space and transfer file
 
 ## Some common scenarios when a password-protected ZIP can become a menace:
 
-Sabotage by a team member– A password-protected ZIP becomes a massive problem if a team member leaves without telling others the password.
+A password-protected ZIP becomes a massive problem if a team member leaves without telling others the password.
 Reminder note of the password gets lost– Many people follow the conventional way of writing down the password on reminder notes. Reminder notes are incredibly convenient, but their major caveat includes keeping them safe. You are in trouble once you lose reminder notes, and the problem grows further if someone with malicious intent finds your secret reminder note.
 The password slips your mind– Sometimes, you just forget passwords, and there seems no way of remembering them.
 You can manually try different passwords as ZIP files come with unlimited attempts, but this process is extremely tedious. Also, you may never remember a forgotten password even after hundreds of shots. Using a ZIP password recovery tool is the easiest way of decompressing ZIP files after losing their passwords.
